@@ -1,0 +1,12 @@
+user_token: вставьте_ваш_токен_вместо_этой_строки
+
+session:
+  key: key_to_generate
+admin:
+  email: admin@admin.com
+  password: admin
+bot:
+  token: b4fe63e4af8b12f8925af2eb006cd518fa8f9219e81f72bd302bd45d8dd88cc7893d863407df153fc686c
+  group_id: 208709676
+
+
